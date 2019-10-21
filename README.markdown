@@ -1,5 +1,0 @@
-# Samezo
-
-## Usage
-
-## Installation
